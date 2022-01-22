@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Ribeiro</h1>
+<h1 align="center">Hi😎, I'm Gabriel Ribeiro</h1>
 <h3 align="center">Programming the world for a better place</h3>
 
 <h3 align="left">Connect with me:</h3>
