@@ -1,5 +1,17 @@
 <h1 align="center">Hi😎, I'm Gabriel Ribeiro</h1>
 <h3 align="center">Programming the world for a better place</h3>
+<h3>
+  <meta charset="UTF-8">
+  <title>Document</title>
+
+  <link href="animate.css" rel="stylesheet" type="text/css">
+</h3>
+<body>
+  <button class="animated bounceInLeft">Botão Animado</button>
+  <div class="animated bounceIn">
+    <p>Exemplo de DIV animada</p>
+    <input placeholder="Campo" type="text">
+      <button>Salvar!</button>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
