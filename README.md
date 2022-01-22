@@ -1,6 +1,6 @@
 <h1 align="center">Hi😎, I'm Gabriel Ribeiro</h1>
 <h3 align="center">Programming the world for a better place</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ribeirinho12=Ribeirinho12&layout=compact)](https://github.com/Ribeirinho12/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
