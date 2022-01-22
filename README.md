@@ -6,6 +6,6 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/ribeirinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeirinho" height="50" width="60" /></a>
-<a href="https://instagram.com/gabrielderibeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielderibeiro" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/ribeirinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeirinho" height="50" width="50" /></a>
+<a href="https://instagram.com/gabrielderibeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielderibeiro" height="50" width="50" /></a>
 </p>
