@@ -1,10 +1,6 @@
 <h1 align="center">Hi😎, I'm Gabriel Ribeiro</h1>
 <h3 align="center">Programming the world for a better place</h3>
 
-<button class="animated bounceInLeft">Botão Animado</button>
-
-<div class="animated bounceIn">Exemplo de DIV animada <input placeholder="Campo" type="text"> <button>Salvar!</button></div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ribeirinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeirinho" height="30" width="40" /></a>
