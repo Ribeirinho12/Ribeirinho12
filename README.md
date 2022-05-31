@@ -1,7 +1,5 @@
 # Hi there 👋, My name is Gabriel Ribeiro
 
-## 💫 Liitle Bit More About Me
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
