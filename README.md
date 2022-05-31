@@ -24,11 +24,6 @@
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ribeirinho12&show_icons=true"><p>
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-</p>
 
 
 ## 👥 Connect With Me
