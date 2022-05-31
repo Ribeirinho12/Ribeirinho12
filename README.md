@@ -14,6 +14,14 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=ribeirinho12&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirinho12&layout=compact"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=ribeirinho12&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ribeirinho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -26,16 +34,3 @@
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=ribeirinho12">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=ribeirinho12&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirinho12&layout=compact"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=ribeirinho12&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
